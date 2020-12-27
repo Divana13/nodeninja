@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Divana13/nodeninja/issues"
   },
-  "homepage": "https://github.com/Divana13/nodeninja#readme"
+  "homepage": "https://github.com/Divana13/nodeninja#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
 }
